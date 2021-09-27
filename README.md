@@ -1,4 +1,4 @@
-# RanningManJS
+# RanningManCSS
 CSS Keyframes Animation | Character movement.
 
 Use 'Arrow Right' - run<br>
